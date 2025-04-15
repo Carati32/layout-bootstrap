@@ -8,3 +8,29 @@
     background: #38853b;
     color: #FFF;
 }
+
+h5{
+    color: #4CAF4F;
+}
+
+a{
+    text-decoration: none;
+    color: #4CAF4F;
+}
+
+.text-translate{
+    transform: translateY(-70%);
+    background: #F5F7FA;
+    width: 319px;
+    height: 199px;
+    margin: 45px;
+    border-radius: 8px;
+    box-shadow: 1px -1px 9px 0px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.text-desc{
+    color: #717171;
+}
+
